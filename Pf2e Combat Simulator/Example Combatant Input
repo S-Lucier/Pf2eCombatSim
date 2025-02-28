@@ -1,0 +1,3 @@
+Name Heroic? HitPoints ArmorClass A1Mod A1Damage A1CritDoubled A1CritExtra AT2Mod AT2Damage A2CritDoubled A3CritExtra A3Mod A3Damage A3CritDoubled A3CritExtra
+Player1 Yes 120 30 20 2d6+5 2d8+5 1d6 15 2d6+5 2d8+5 1d6 10 2d6+5 2d8+5 1d6
+Monster1 No 120 30 20 2d6+5 2d8+5 15 2d6+5 2d8+5 10 2d6+5 2d8+5
